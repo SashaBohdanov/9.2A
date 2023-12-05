@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Pr9.2\Pr9.2\Pr9.2.cpp(35,9): warning C4101: 'proc': unreferenced local variable
+D:\Pr9.2\Pr9.2\Pr9.2.cpp(97,11): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1250)
+D:\Pr9.2\Pr9.2\Pr9.2.cpp(125,10): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1250)
+D:\Pr9.2\Pr9.2\Pr9.2.cpp(216,10): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1250)
+     Creating library D:\Pr9.2\x64\Debug\UnitTest1.lib and object D:\Pr9.2\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Pr9.2\x64\Debug\UnitTest1.dll

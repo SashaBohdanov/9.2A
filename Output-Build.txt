@@ -1,0 +1,6 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: 9.1, Configuration: Debug x64 ------
+1>9.1.cpp
+1>9.1.vcxproj -> D:\9.1\x64\Debug\9.1.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+========== Rebuild started at 21:05 and took 02,435 seconds ==========
